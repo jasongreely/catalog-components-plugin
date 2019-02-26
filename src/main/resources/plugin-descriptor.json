@@ -1,0 +1,14 @@
+{
+  "type": "feature",
+  "id": "catalog-components",
+  "name": "Catalog Components Plugin",
+  "icon": "/essentials/feature/catalog-components/icon.png",
+  "introduction": "[Provide short introduction, describing the purpose of this plugin]",
+  "vendor": {
+    "name": "Vendor Name",
+    "url": ""
+  },
+  "packageFile": "/catalog-components_instructions.xml",
+  "restClasses": [],
+  "rebuildAfterInstallation": false
+}
